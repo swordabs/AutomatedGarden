@@ -1,0 +1,194 @@
+                   //------------Daily Log---------//
+ 
+ 
+                   --- DAY 1 ---
+                   --- DAY 1 IS OVER ---
+
+                   --- DAY 2 ---
+ -Blue Flower was attacked by a bug
+                   --- DAY 2 IS OVER ---
+
+                   --- DAY 3 ---
+                   --- DAY 3 IS OVER ---
+
+                   --- DAY 4 ---
+                   --- DAY 4 IS OVER ---
+
+                   --- DAY 5 ---
+                   --- DAY 5 IS OVER ---
+
+                   --- DAY 6 ---
+ -Blue Flower is getting watered 
+                   --- DAY 6 IS OVER ---
+
+                   --- DAY 7 ---
+                   --- DAY 7 IS OVER ---
+
+ -Green Bush is getting watered 
+                   --- DAY 8 ---
+ -Green Bush was attacked by a bug
+                   --- DAY 8 IS OVER ---
+
+                   --- DAY 9 ---
+                   --- DAY 9 IS OVER ---
+
+                   --- DAY 10 ---
+ -Blue Flower is getting watered 
+                   --- DAY 10 IS OVER ---
+
+                   --- DAY 11 ---
+ -Blue Tree is getting watered 
+ -Green Bush is getting harvested
+                   --- DAY 11 IS OVER ---
+
+                   --- DAY 12 ---
+                   --- DAY 12 IS OVER ---
+
+                   --- DAY 13 ---
+                   --- DAY 13 IS OVER ---
+
+                   --- DAY 14 ---
+ -Blue Tree was attacked by a bug
+                   --- DAY 14 IS OVER ---
+
+ -Green Bush is getting watered 
+                   --- DAY 15 ---
+                   --- DAY 15 IS OVER ---
+
+ -Blue Flower is getting watered 
+                   --- DAY 16 ---
+ -Blue Flower is getting harvested
+                   --- DAY 16 IS OVER ---
+
+                   --- DAY 17 ---
+                   --- DAY 17 IS OVER ---
+
+                   --- DAY 18 ---
+                   --- DAY 18 IS OVER ---
+
+                   --- DAY 19 ---
+                   --- DAY 19 IS OVER ---
+
+                   --- DAY 20 ---
+ -Blue Tree was attacked by a bug
+ -Green Bush was attacked by a bug
+                   --- DAY 20 IS OVER ---
+
+ -Blue Flower is getting watered 
+                   --- DAY 21 ---
+                   --- DAY 21 IS OVER ---
+
+ -Green Bush is getting watered 
+                   --- DAY 22 ---
+ -Green Bush is getting harvested
+ -Blue Tree is getting watered 
+                   --- DAY 22 IS OVER ---
+
+                   --- DAY 23 ---
+                   --- DAY 23 IS OVER ---
+
+                   --- DAY 24 ---
+                   --- DAY 24 IS OVER ---
+
+                   --- DAY 25 ---
+                   --- DAY 25 IS OVER ---
+
+ -Blue Flower is getting watered 
+                   --- DAY 26 ---
+ -Blue Tree was attacked by a bug
+                   --- DAY 26 IS OVER ---
+
+                   --- DAY 27 ---
+                   --- DAY 27 IS OVER ---
+
+                   --- DAY 28 ---
+                   --- DAY 28 IS OVER ---
+
+ -Green Bush is getting watered 
+                   --- DAY 29 ---
+                   --- DAY 29 IS OVER ---
+
+                   --- DAY 30 ---
+                   --- DAY 30 IS OVER ---
+
+ -Blue Flower is getting watered 
+                   --- DAY 31 ---
+ -Blue Tree is getting harvested
+                   --- DAY 31 IS OVER ---
+
+                   --- DAY 32 ---
+ -Blue Flower is getting harvested
+                   --- DAY 32 IS OVER ---
+
+                   --- DAY 33 ---
+ -Green Bush was attacked by a bug
+ -Blue Tree is getting watered 
+ -Green Bush is getting harvested
+                   --- DAY 33 IS OVER ---
+
+                   --- DAY 34 ---
+                   --- DAY 34 IS OVER ---
+
+                   --- DAY 35 ---
+                   --- DAY 35 IS OVER ---
+
+ -Blue Flower is getting watered 
+                   --- DAY 36 ---
+ -Green Bush is getting watered 
+                   --- DAY 36 IS OVER ---
+
+                   --- DAY 37 ---
+ -Blue Flower was attacked by a bug
+                   --- DAY 37 IS OVER ---
+
+                   --- DAY 38 ---
+ -Blue Flower was attacked by a bug
+                   --- DAY 38 IS OVER ---
+
+                   --- DAY 39 ---
+                   --- DAY 39 IS OVER ---
+
+                   --- DAY 40 ---
+ -Green Bush was attacked by a bug
+                   --- DAY 40 IS OVER ---
+
+ -Blue Flower is getting watered 
+                   --- DAY 41 ---
+                   --- DAY 41 IS OVER ---
+
+                   --- DAY 42 ---
+                   --- DAY 42 IS OVER ---
+
+ -Green Bush is getting watered 
+                   --- DAY 43 ---
+ -Blue Flower was attacked by a bug
+                   --- DAY 43 IS OVER ---
+
+                   --- DAY 44 ---
+ -Green Bush is getting harvested
+ -Blue Tree is getting watered 
+                   --- DAY 44 IS OVER ---
+
+                   --- DAY 45 ---
+ -Blue Flower is getting watered 
+                   --- DAY 45 IS OVER ---
+
+                   --- DAY 46 ---
+                   --- DAY 46 IS OVER ---
+
+                   --- DAY 47 ---
+                   --- DAY 47 IS OVER ---
+
+                   --- DAY 48 ---
+ -Blue Flower is getting harvested
+                   --- DAY 48 IS OVER ---
+
+                   --- DAY 49 ---
+                   --- DAY 49 IS OVER ---
+
+ -Green Bush is getting watered 
+                   --- DAY 50 ---
+ -Blue Tree was attacked by a bug
+ -Green Bush was out of its temperature range Temp: 82
+                   --- DAY 50 IS OVER ---
+
